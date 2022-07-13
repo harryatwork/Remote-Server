@@ -1,0 +1,3 @@
+[10-Jan-2022 07:06:41 UTC] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_include=0 in /home2/vdofybzn/public_html/dev/launch_page/index.php on line 635
+[10-Jan-2022 07:06:41 UTC] PHP Warning:  include(https://vdofy.com/home/chatbox.php): failed to open stream: no suitable wrapper could be found in /home2/vdofybzn/public_html/dev/launch_page/index.php on line 635
+[10-Jan-2022 07:06:41 UTC] PHP Warning:  include(): Failed opening 'https://vdofy.com/home/chatbox.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/vdofybzn/public_html/dev/launch_page/index.php on line 635
